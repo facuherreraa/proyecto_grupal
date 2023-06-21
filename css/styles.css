@@ -11013,7 +11013,7 @@ body {
     color: #000;
   }
   #mainNav .nav-link:hover {
-    color: rgba(255, 255, 255, 0.75);
+    color: orange;
   }
   #mainNav .nav-link:active {
     color: #fff;
